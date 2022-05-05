@@ -6,7 +6,7 @@ In this weather dashboard app I used OpenWeather API to retrieve weather data fo
 
 ## Website Link
 
-
+https://brahmg1.github.io/weather-dashboard/Develop/index.html
 
 ## Screenshot
 
