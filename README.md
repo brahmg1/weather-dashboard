@@ -2,7 +2,7 @@
 
 ## Description
 
-In this weather dashboard app I used OpenWeather API to retrieve weather data for cities that runs in the browser and features dynamically updated HTML and CSS.
+Created a dynamic weather dashboard using JavaScript and the OpenWeather API that displays current weather conditions and a five-day forecast for any city. Tools used are JavaScript, API, JSON, HTML, and CSS.
 
 ## Website Link
 
